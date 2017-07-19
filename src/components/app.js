@@ -12,6 +12,11 @@ export default class App extends Component {
       <div>
         <Header />
         <TrainList />
+        <footer>
+          <div class="container">
+            <p>Vu Hai Ninh Copyright &copy; 2017, All Rights Reserved</p>
+          </div>
+        </footer>
       </div>
     );
   }
