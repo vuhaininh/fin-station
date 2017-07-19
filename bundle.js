@@ -22761,7 +22761,20 @@ var App = function (_Component) {
         'div',
         null,
         _react2.default.createElement(_train_header2.default, null),
-        _react2.default.createElement(_train_list2.default, null)
+        _react2.default.createElement(_train_list2.default, null),
+        _react2.default.createElement(
+          'footer',
+          null,
+          _react2.default.createElement(
+            'div',
+            { 'class': 'container' },
+            _react2.default.createElement(
+              'p',
+              null,
+              'Vu Hai Ninh \xA9 2017, All Rights Reserved'
+            )
+          )
+        )
       );
     }
   }]);
