@@ -17,7 +17,7 @@ git clone https://github.com/vuhaininh/fin-station.git
 ## Run the app in local
 Go to the app folder
 ```
-cd github-management
+cd fin-station
 
 ```
 Install dependencies
