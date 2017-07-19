@@ -13,7 +13,7 @@ export default class App extends Component {
         <Header />
         <TrainList />
         <footer>
-          <div class="container">
+          <div className="container">
             <p>Vu Hai Ninh Copyright &copy; 2017, All Rights Reserved</p>
           </div>
         </footer>

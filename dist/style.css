@@ -19,9 +19,19 @@ header {
   padding: 5px; }
 
 .train-item:hover {
-  box-shadow: 1px 1px #53a7ea, 2px 2px #53a7ea, 3px 3px #53a7ea;
+  box-shadow: 1px 1px #53a7ea, 2px 2px #53a7ea, 3px 3px #53a7ea;
   -webkit-transform: translateX(-3px);
   transform: translateX(-3px); }
+
+footer {
+  background: #f4f4f4;
+  height: 90px;
+  color: #04519b;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 40px;
+  margin-top: 30px;
+  border-top: 7px solid #04519b; }
 
 .panel-heading {
   background-image: linear-gradient(#04519b, #044687 60%, #033769);
