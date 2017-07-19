@@ -1,11 +1,7 @@
 # Installation Guide
-This is application to view Github repositories of organizations. (such as rails, google ... )
+This is application to view Trains in Stations in Finland
 
-Online Demo link: https://vuhaininh.github.io/github-management/
-
-Application runs well on Chrome, Firefox, Microsoft Edge. I do not have Mac so cannot test with Safari (Apple does not support Safari in Windows for years).
-
-I do not have paid organization git hub so I ignored the toggle/filter private/public part
+Online Demo link: https://vuhaininh.github.io/fin-station/
 
 ## Install NPM
 ```
@@ -15,7 +11,7 @@ https://nodejs.org/en/
 ## Get the code
 Open command promp and run command line
 ```
-git clone https://github.com/vuhaininh/github-management.git
+git clone https://github.com/vuhaininh/fin-station.git
 
 ```
 ## Run the app in local
@@ -35,11 +31,6 @@ npm start
 
 ```
  Open http://localhost:8080 to view it in the browser.
- 
- Enter organization name such as "rails" or "google" to search repositories
- 
- Run test
- (Test cases are written in test folder)
- ```
- npm run test:watch
+
+ Enter station name such as "HKI" or "SLO" to view
  ```
