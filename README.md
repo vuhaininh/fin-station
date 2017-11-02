@@ -1,5 +1,5 @@
 # Installation Guide
-This is application to view Trains in Stations in Finland
+This is application to view Trains in Stations in Finland.
 
 Online Demo link: https://vuhaininh.github.io/fin-station/
 
